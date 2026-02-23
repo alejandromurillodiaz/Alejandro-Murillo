@@ -18,6 +18,6 @@
 
 ## ¿Quién Soy?
 Actualmente soy Alumno de UPSIN Mazatlán efocado en el desarrollo de Software. <br>
-Manejado Desarrollo WEB(Fullstack) y Móvil(Kotlin y Java).
+He Manejado Desarrollo WEB(Fullstack) y Móvil(Kotlin y Java), entre otras cosas.
 
 ### Gracias por visitar mi sitio
