@@ -1,11 +1,9 @@
 # Alejandro-Murillo 
-## Titulo 2
-### Titulo 3
 
 # Bienvenido a mi página
 
 <p align-center>
-  <a href="www.linkedin.com/in/alejandro-murillo-amd" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-murillo-amd" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -19,7 +17,7 @@
 </p>
 
 ## ¿Quién Soy?
-Soy Alumno de UPSIN Mazatlán.
-Soy desarrollador fullstack Jr.
+Actualmente soy Alumno de UPSIN Mazatlán efocado en el desarrollo de Software. <br>
+Manejado Desarrollo WEB(Fullstack) y Móvil(Kotlin y Java).
 
 ### Gracias por visitar mi sitio
